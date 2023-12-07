@@ -1,0 +1,6 @@
+07.12.2023 15:38:59 - [INFO] Starte den Vorgang.
+07.12.2023 15:39:07 - [DEBUG] Dies ist eine Debug-Nachricht.
+07.12.2023 15:39:08 - [WARNING] Achtung! Etwas stimmt nicht.
+07.12.2023 15:39:08 - [ERROR] Ein Fehler ist aufgetreten.
+07.12.2023 15:39:08 - [TRACE] Detailierte Trace-Nachricht.
+07.12.2023 15:39:08 - [INFO] Vorgang erfolgreich abgeschlossen.
